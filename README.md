@@ -19,20 +19,26 @@ Just follow the instructions one-by-one and the broader picture will become clea
 ### `git`
 :question:&nbsp; What is `git`?\
 :exclamation:&nbsp; A piece of software that allows you to keep track of changes to files (like Google Docs, sort of)\
-If you have a Mac, follow below. If you have Windows, skip to the Windows section.\
+If you have a Mac, follow below. If you have Windows, skip to the Windows section.
 ###### Mac installation instructions
 - [x] See if you have it first
   - Command + Space, type: `Terminal` and hit Enter
   - type `git --version`, hit Enter
-  - If you get a response like `git version #.##` skip this section
+    - If you get a response like `git version #.##` skip this section
 - [x] Download Homebrew
   - Command + Space, type: `Terminal` and hit Enter
   - type: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`,  hit Enter
   - Answer yes or hit enter when prompted
 - [x] Once finished, still in Terminal, type: `brew install git` and hit Enter
+- [x] Type `git --version`, hit Enter
+  - If you get a response like `git version #.##` you're good
 
-`
-
+###### Windows installation instructions
+- [x] See if you have it first
+  - Go to Start Menu and open Command Prompt
+  - type `git --version`, hit Enter
+  - If you get a response like `git version #.##` skip this section
+- [x] Navigate [here](https://git-scm.com/download/win) and the download will start
 
 
 
