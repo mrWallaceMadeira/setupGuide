@@ -54,10 +54,19 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
 - [x] Go back to Command Prompt and type: `git --version` and hit Enter
   - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
+### :hand:&nbsp;Stop.
+Watch [this](https://www.youtube.com/watch?v=5DqTuWve9t8)
+
+
 ### :link:&nbsp;: Connecting `git` to GitHub
 Now we'll connect the `git` software we just downloaded to the website, GitHub so that you can share your code.\
 ###### Creating your first repository
 - [x] Login to your new GitHub account and navigate to the "My repositories" section under your profile
 - [x] Create a new repository named "mod1_labs"
+  - **Do not** initialize your repository with a README.md
+- [x] Keep this tab open, we'll come back here
+###### Creating your first `git` directory
+- [x] Open Terminal / Command Prompt
+- [x] 
 
 
