@@ -27,7 +27,7 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
   - If you get a response like `git version #.##` skip this section
 - [x] Download Homebrew
   - Command + Space, type: `Terminal`, hit Enter
-  - type: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)",  hit Enter
+  - type: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`,  hit Enter
   - Answer yes or hit enter when prompted
 - [x] Once finished, still in Terminal, type: `brew install git`, hit Enter
 
