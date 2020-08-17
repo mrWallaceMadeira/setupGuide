@@ -7,6 +7,15 @@ This will walk through the three tools we'll be using
 Don't be alarmed if all of this is new and scary.\
 Just follow the instructions one-by-one and the broader picture will become clear soon enough.
 
+### IntelliJ
+:question:&nbsp; What is IntelliJ?\
+:exclamation:&nbsp; A code editor, sorta like Microsoft Word, but cooler.
+###### Sign up for an educational license
+- [x] Fill out [this form](https://www.jetbrains.com/shop/eform/students) 
+  - Use your Madeira email address
+  - Check your email for a message from JetBrains (the folks that make IntelliJ) & follow those instructions
+- [x] Download IntelliJ Ultimate Edition
+
 ### GitHub
 :question:&nbsp; What is GitHub?\
 :exclamation:&nbsp; A place to share your code and collaborate with others.
