@@ -24,7 +24,7 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
 - [x] See if you have it first
   - Command + Space, type: `Terminal` and hit Enter
   - type `git --version`, hit Enter
-    - If you get a response like `git version #.##` skip this section
+  - If you get a response like `git version #.##` skip this section
 - [x] Download Homebrew
   - Command + Space, type: `Terminal` and hit Enter
   - type: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`,  hit Enter
@@ -39,6 +39,9 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
   - type `git --version`, hit Enter
   - If you get a response like `git version #.##` skip this section
 - [x] Navigate [here](https://git-scm.com/download/win) and the download will start
+- [x] Go back to Command Prompt and type: `git --version` and hit Enter
+  - If you get a response like `git version #.##` you're good
+
 
 
 
