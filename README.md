@@ -2,7 +2,7 @@
 Let me start by recognizing that this isn't going to be fun.\
 All of these tools can be a pain to set up and occasionally lead to confusion.\
 Put aside your brilliant, inquisitive student minds and follow the instructions, ***one-by-one***.\
-This will all become clear soon enough, I promise.\
+This will all become clear soon enough, I promise.
 
 This will walk through the three tools we'll be using
 1. GitHub
