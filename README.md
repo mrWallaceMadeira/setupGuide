@@ -54,6 +54,7 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
 - [x] Go back to Command Prompt and type: `git --version` and hit Enter
   - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
+### :link:&nbsp;: Connecting `git` to GitHub
 
 
 
