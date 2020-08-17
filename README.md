@@ -12,6 +12,7 @@ Just follow the instructions one-by-one and the broader picture will become clea
 :exclamation:&nbsp; A code editor, sorta like Microsoft Word, but cooler.
 ###### Sign up for an educational license
 - [x] Fill out [this form](https://www.jetbrains.com/shop/eform/students) 
+  - Ignore the fact that it says "University email address" you're cool like that
   - Use your Madeira email address
   - Check your email for a message from JetBrains (the folks that make IntelliJ) & follow those instructions
 - [x] Download IntelliJ Ultimate Edition
