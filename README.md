@@ -55,6 +55,9 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
   - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
 ### :link:&nbsp;: Connecting `git` to GitHub
-
+Now we'll connect the `git` software we just downloaded to the website, GitHub so that you can share your code.\
+###### Creating your first repository
+- [x] Login to your new GitHub account and navigate to the "My repositories" section under your profile
+- [x] Create a new repository named "mod1_labs"
 
 
