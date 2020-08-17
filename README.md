@@ -31,7 +31,7 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
   - Answer yes or hit enter when prompted
 - [x] Once finished, still in Terminal, type: `brew install git` and hit Enter
 - [x] Type `git --version`, hit Enter
-  - If you get a response like `git version #.##` you're good
+  - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
 ###### Windows installation instructions
 - [x] See if you have it first
@@ -40,7 +40,7 @@ If you have a Mac, follow below. If you have Windows, skip to the Windows sectio
   - If you get a response like `git version #.##` skip this section
 - [x] Navigate [here](https://git-scm.com/download/win) and the download will start
 - [x] Go back to Command Prompt and type: `git --version` and hit Enter
-  - If you get a response like `git version #.##` you're good
+  - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
 
 
