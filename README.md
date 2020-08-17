@@ -67,5 +67,5 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
 - [x] Keep this tab open, we'll come back here
 ###### Creating your first IntelliJ project
 - [x] Watch [this]() video
-- [x] Open Terminal / Command Prompt and enter: `git init Desktop/IntroToCS/lab1`
+- [x] Open Terminal / Command Prompt and enter: `git init Desktop/IntroToCS/mod1_labs`
 - [x] 
