@@ -82,4 +82,6 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
 - [x] Then enter: `git push -u origin master`
 
 :massage:&nbsp;Probably time for [this](https://www.youtube.com/watch?v=5DqTuWve9t8) again\
-Now go back to your GitHub repositories, refresh the page and .... &nbsp;:tada:&nbsp;
+Now go back to your GitHub repositories, refresh the page and .... &nbsp;:tada:&nbsp; your code is on the Internet
+
+### C'est fin &nbsp;:fist:
