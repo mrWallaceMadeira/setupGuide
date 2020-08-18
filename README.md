@@ -32,26 +32,26 @@ This will walk through the three tools we'll be using
 :question:&nbsp; What is `git`?\
 :exclamation:&nbsp; A piece of software that allows you to keep track of changes to files (like Google Docs, sort of)\
 If you have a Mac, follow below. If you have Windows, skip to the Windows section.
+
+:pushpin:&nbsp; If you see `this text` it means enter the command into Terminal (Mac users) or Command Prompt (Windows users). Watch [this]() for what Terminal / Command Prompt is.
+
 ###### Mac installation instructions
 - [x] See if you have it first
-  - Command + Space, type: `Terminal` and hit Enter
-  - type `git --version`, hit Enter
+  - `git --version`
   - If you get a response like `git version #.##` skip this section
 - [x] Download Homebrew
-  - Command + Space, type: `Terminal` and hit Enter
-  - type: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`,  hit Enter
-  - Answer yes or hit enter when prompted
-- [x] Once finished, still in Terminal, type: `brew install git` and hit Enter
-- [x] Type `git --version`, hit Enter
+  - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+    - Answer yes or hit enter when prompted
+- [x] Once above finished, `brew install git`
+- [x] `git --version`
   - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
 ###### Windows installation instructions
 - [x] See if you have it first
-  - Go to Start Menu and open Command Prompt
-  - type `git --version`, hit Enter
+  -  `git --version`
   - If you get a response like `git version #.##` skip this section
 - [x] Navigate [here](https://git-scm.com/download/win) and the download will start
-- [x] Go back to Command Prompt and type: `git --version` and hit Enter
+- [x]  `git --version`
   - If you get a response like `git version #.##` you're golden&nbsp;:trophy:
 
 ### :hand:&nbsp;Stop.
@@ -69,7 +69,6 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
 ###### Creating your first IntelliJ project
 - [x] Watch [this]() video & follow the same steps
 ###### Connecting your IntelliJ project to GitHub
-When you see `this text` it means enter it into Terminal or Command Prompt
 - [x] `cd Desktop/IntroToCS/Mod1Labs`
 - [x] `git init`
 - [x] `git add *`
