@@ -33,7 +33,10 @@ This will walk through the three tools we'll be using
 :exclamation:&nbsp; A piece of software that allows you to keep track of changes to files (like Google Docs, sort of)\
 If you have a Mac, follow below. If you have Windows, skip to the Windows section.
 
+----
 :pushpin:&nbsp; If you see `this text` it means enter the command into Terminal (Mac users) or Command Prompt (Windows users). Watch [this]() for what Terminal / Command Prompt is.
+
+-----
 
 ###### Mac installation instructions
 - [x] See if you have it first
