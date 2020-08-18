@@ -62,13 +62,22 @@ Watch [this](https://www.youtube.com/watch?v=5DqTuWve9t8)
 Now we'll connect the git software we just downloaded to the website, GitHub, so that you can share your code.\
 ###### Creating your first repository
 - [x] Login to your new GitHub account and navigate to the "My repositories" section under your profile
-- [x] Create a new repository named "mod1_labs"
+- [x] Create a new repository named "Mod1Labs" 
+  - Make sure it's capitalized the same way as above
   - **Do not** initialize your repository with a README.md
 - [x] Keep this tab open, we'll come back here
 ###### Creating your first IntelliJ project
 - [x] Watch [this]() video & follow the same steps
 ###### Connecting your IntelliJ project to GitHub
-- [x] Open Terminal / Command Prompt and enter: `git init Desktop/IntroToCS/mod1_labs`
-- [x] Return to your GitHub tab you left open & find the section that reads: 
-  > …or push an existing repository from the command line
+When you see `this text` it means enter it into Terminal or Command Prompt
+- [x] `cd Desktop/IntroToCS/Mod1Labs`
+- [x] `git init`
+- [x] `git add *`
+- [x] `git commit -m "my first commit"`
+- [x] `git remote add https://github.com/YOUR_GITHUB_USERNAME/Mod1Labs.git`
+  - The bit that reads YOUR_GITHUB_USERNAME should be replaced with your username
+- [x] Then enter: `git push -u origin master`
+
+:massage:&nbsp;Probably time for [this](https://www.youtube.com/watch?v=5DqTuWve9t8) again
+
 
