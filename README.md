@@ -62,7 +62,7 @@ Watch [this](https://www.youtube.com/watch?v=5DqTuWve9t8)
 
 
 ### :link:&nbsp;: Connecting `git` to GitHub
-Now we'll connect the git software we just downloaded to the website, GitHub, so that you can share your code.\
+Now we'll connect the git software we just downloaded to the website, GitHub, so that you can share your code.
 ###### Creating your first repository
 - [x] Login to your new GitHub account and navigate to the "My repositories" section under your profile
 - [x] Create a new repository named "Mod1Labs" 
