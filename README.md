@@ -70,7 +70,7 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
   - **Do not** initialize your repository with a README.md
 - [x] Keep this tab open, we'll come back here
 ###### Creating your first IntelliJ project
-- [x] Watch [this]() video & follow the same steps
+- [x] Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/newIntelliJProject.mov) video & follow the same steps
 ###### Connecting your IntelliJ project to GitHub
 - [x] Mac: `cd Desktop/IntroToCS/Mod1Labs` Windows: `cd Desktop\IntroToCS\Mod1Labs`
 - [x] `git init`
