@@ -34,7 +34,7 @@ This will walk through the three tools we'll be using
 If you have a Mac, follow below. If you have Windows, skip to the Windows section.
 
 ----
-:pushpin:&nbsp; If you see `this text` it means enter the command into Terminal (Mac users) or Command Prompt (Windows users). Watch [this]() for what Terminal / Command Prompt is.
+:pushpin:&nbsp; If you see `this text` it means enter the command into Terminal (Mac users) or Command Prompt (Windows users).\ Watch [this]() for what Terminal / Command Prompt is.
 
 -----
 
