@@ -69,4 +69,6 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
 - [x] Watch [this]() video & follow the same steps
 ###### Connecting your IntelliJ project to GitHub
 - [x] Open Terminal / Command Prompt and enter: `git init Desktop/IntroToCS/mod1_labs`
-- [x] Return to your GitHub tab you left open &
+- [x] Return to your GitHub tab you left open & find the section that reads: 
+  > …or push an existing repository from the command line
+
