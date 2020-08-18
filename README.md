@@ -72,7 +72,7 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
 ###### Creating your first IntelliJ project
 - [x] Watch [this]() video & follow the same steps
 ###### Connecting your IntelliJ project to GitHub
-- [x] `cd Desktop/IntroToCS/Mod1Labs`
+- [x] Mac: `cd Desktop/IntroToCS/Mod1Labs` Windows: `cd Desktop\IntroToCS\Mod1Labs`
 - [x] `git init`
 - [x] `git add *`
 - [x] `git commit -m "my first commit"`
