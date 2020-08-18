@@ -81,6 +81,5 @@ Now we'll connect the git software we just downloaded to the website, GitHub, so
   - The bit that reads YOUR_GITHUB_USERNAME should be replaced with your username
 - [x] Then enter: `git push -u origin master`
 
-:massage:&nbsp;Probably time for [this](https://www.youtube.com/watch?v=5DqTuWve9t8) again
-
-
+:massage:&nbsp;Probably time for [this](https://www.youtube.com/watch?v=5DqTuWve9t8) again\
+Now go back to your GitHub repositories, refresh the page and .... &nbsp;:tada:&nbsp;
